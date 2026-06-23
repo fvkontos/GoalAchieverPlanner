@@ -1,4 +1,4 @@
-package com.example.goalachieverplanner.designsystem.components
+package com.example.goalachieverplanner.designsystem.components.buttons
 
 import androidx.compose.material3.Button
 import androidx.compose.material3.Text
