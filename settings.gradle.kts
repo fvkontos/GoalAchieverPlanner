@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GoalAchieverPlanner"
 include(":app")
+include(":designsystem")

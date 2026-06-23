@@ -1,4 +1,4 @@
-package com.example.goalachieverplanner.ui.theme
+package com.example.goalachieverplanner.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
