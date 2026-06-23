@@ -2,10 +2,18 @@ package com.example.goalachieverplanner.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Brand Colors
+val PrimaryPurple = Color(0xFF5D45FF)
+val PrimaryContainerLight = Color(0xFFF0EFFF)
+val OnPrimaryWhite = Color(0xFFFFFFFF)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Functional Colors
+val BackgroundSubtle = Color(0xFFF8F9FD)
+val SurfaceWhite = Color(0xFFFFFFFF)
+
+// Text Colors
+val TextPrimaryDark = Color(0xFF1A1C2E)
+val TextSecondaryGrey = Color(0xFF71768B)
+
+// Borders
+val BorderLight = Color(0xFFE5E7EB)
